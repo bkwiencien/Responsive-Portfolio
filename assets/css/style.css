@@ -140,7 +140,6 @@ footer {
 	clear: both;
 	overflow: auto;
 	margin: 0 auto;
-	background-image: url("../images/background.png");
 	height: 600px;
 	width: 100%;
 	border-bottom: 5px solid #4aaaa5;
@@ -237,5 +236,6 @@ footer {
 	padding: 15px;
 	height: 500px;
 }
-@media screen and (max-width: 699) and (min-width: 520px) {
+/*  980px, 768px, 640px */
+@media screen and (max-width: 980) and (min-width: 520px), (min-width: 640px) {
 }

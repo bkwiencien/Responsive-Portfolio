@@ -237,3 +237,5 @@ footer {
 	padding: 15px;
 	height: 500px;
 }
+@media screen and (max-width: 699) and (min-width: 520px) {
+}

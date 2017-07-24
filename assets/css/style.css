@@ -237,5 +237,11 @@ footer {
 	height: 500px;
 }
 /*  980px, 768px, 640px */
-@media screen and (max-width: 980) and (min-width: 520px), (min-width: 640px) {
+/* @media screen and (max-width: 980) and (min-width: 520px), (min-width: 640px) {
+} */
+@media screen and (max-width: 980px) {
+}
+@media screen and (max-width: 768px) {
+}
+@media screen and (max-width: 640px) {
 }
